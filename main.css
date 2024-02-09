@@ -126,3 +126,13 @@ table td img {
 table tfoot {
     font-weight: bold;
 }
+
+ul {
+    padding-bottom: 40px;
+    padding-left: 20px;
+    color: white;
+}
+
+::placeholder {
+    color: white;
+}
